@@ -1,9 +1,9 @@
 #import "ImagePickerManager.h"
-#import <React/RCTConvert.h>
+#import "RCTConvert.h"
 #import <AssetsLibrary/AssetsLibrary.h>
 #import <AVFoundation/AVFoundation.h>
 #import <Photos/Photos.h>
-#import <React/RCTUtils.h>
+#import "RCTUtils.h"
 
 @import MobileCoreServices;
 
